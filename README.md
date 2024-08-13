@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nohYoom08%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nohYoom08%20GitHub)<br>
+성장 중인 프론트엔드 개발자 노준호의 Github입니다!🤗
+<br><br><br>
 
 ## 🛠️ Tech Stack 🛠️
 |Kind|Stack|
@@ -10,7 +12,12 @@
 |Tool| ![Static Badge](https://img.shields.io/badge/create--react--app-09D3AC?logo=create-react-app&logoColor=white) ![Static Badge](https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=white) ![Static Badge](https://img.shields.io/badge/prettier-F7B93E?logo=prettier&logoColor=white)
 |Deploy| ![Static Badge](https://img.shields.io/badge/github_actions-2088FF?logo=githubactions&logoColor=white) ![Static Badge](https://img.shields.io/badge/github_pages-222222?logo=githubpages&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws-232F3E?logo=amazonwebservices&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws_S3-569A31?logo=amazons3&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws_EC2-FF9900?logo=amazonec2&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws_Route53-8C4FFF?logo=amazonroute53&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws_CloudFront-8C4FFF?logo=icloud&logoColor=white)
 
+<br><br><br>
 
+## ⚡️ Stats ⚡️
+[![nohYoom08's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohYoom08)](https://github.com/nohYoom08/github-readme-stats)
 
+<br><br><br>
 
-
+## 📈 Activity Graph 📈 
+[![nohYoom08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohYoom08&theme=react)](https://github.com/nohYoom08/github-readme-activity-graph)
