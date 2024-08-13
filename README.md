@@ -16,10 +16,10 @@
 
 <br><br><br>
 
-## ⚡️ Stats ⚡️
+<!-- ## ⚡️ Stats ⚡️
 [![nohYoom08's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohYoom08)](https://github.com/nohYoom08/github-readme-stats)
 
-<br><br><br>
+<br><br><br> -->
 
 ## 📈 Activity Graph 📈 
 [![nohYoom08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohYoom08&theme=react)](https://github.com/nohYoom08/github-readme-activity-graph)
