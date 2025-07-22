@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nohYoom08%20GitHub)
 -----
 
-### 성장 중인 프론트엔드 개발자 nohYoom08의 Github입니다! 🤗
+### 성장 중인 프론트엔드 개발자 nodeRand08의 Github입니다! 🤗
 <br>
 
 ## 📝 History 📝
