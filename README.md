@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nohYoom08%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nodeRand08%20GitHub)
 -----
 
 ### 성장 중인 프론트엔드 개발자 nodeRand08의 Github입니다! 🤗
@@ -24,9 +24,9 @@
 <br><br>
 
 <!-- ## ⚡️ Stats ⚡️
-[![nohYoom08's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohYoom08)](https://github.com/nohYoom08/github-readme-stats)
+[![nodeRand08's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodeRand08)](https://github.com/nodeRand08/github-readme-stats)
 
 <br><br><br> -->
 
 ## 📈 Activity Graph 📈 
-[![nohYoom08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohYoom08&theme=react)](https://github.com/nohYoom08/github-readme-activity-graph)
+[![nodeRand08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nodeRand08&theme=react)](https://github.com/nodeRand08/github-readme-activity-graph)
