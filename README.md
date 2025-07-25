@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nodeRand08%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nodeRand%20GitHub)
 -----
 
-### 성장 중인 프론트엔드 개발자 nodeRand08의 Github입니다! 🤗
+### 성장 중인 프론트엔드 개발자 nodeRand의 Github입니다! 🤗
 <br>
 
 ## 📝 History 📝
@@ -24,9 +24,9 @@
 <br><br>
 
 <!-- ## ⚡️ Stats ⚡️
-[![nodeRand08's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodeRand08)](https://github.com/nodeRand08/github-readme-stats)
+[![nodeRand's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodeRand)](https://github.com/nodeRand/github-readme-stats)
 
 <br><br><br> -->
 
 ## 📈 Activity Graph 📈 
-[![nodeRand08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nodeRand08&theme=react)](https://github.com/nodeRand08/github-readme-activity-graph)
+[![nodeRand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nodeRand&theme=react)](https://github.com/nodeRand/github-readme-activity-graph)
