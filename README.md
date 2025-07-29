@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20nodeRand%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=200&text=Hello&fontAlignX=50&fontAlignY=35&color=gradient&fontSize=100&fontColor=ffffff&desc=Here's%20NodeRand%20GitHub)
 -----
 
-### 성장 중인 프론트엔드 개발자 nodeRand의 Github입니다! 🤗
+### 성장 중인 프론트엔드 개발자 NodeRand의 Github입니다! 🤗
 <br>
 
 ## 📝 History 📝
 * 세종대학교 소프트웨어학과 재학 중 (2020 ~ )
 * 멋쟁이사자처럼 at 세종대학교 프론트엔드 트랙 과정 11기 수료 (2023 ~ 2024)
 * 2023-2 세종대학교 소프트웨어학과 학술제 수상 (2023)
-* 팀 헤일로 소속, 온라인 축제 팜플렛 서비스 [페스티맵(Festimap)](https://github.com/festimap-org) 개발자로 활동 중 (2023 ~ 2025)
+* 온라인 축제 팜플렛 서비스 [페스티맵(Festimap)](https://github.com/festimap-org) 개발자로 활동 중 (2023 ~ 2025)
 <br>
 
 ## 🛠️ Tech Stack 🛠️
@@ -24,9 +24,9 @@
 <br><br>
 
 <!-- ## ⚡️ Stats ⚡️
-[![nodeRand's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodeRand)](https://github.com/nodeRand/github-readme-stats)
+[![NodeRand's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodeRand)](https://github.com/NodeRand/github-readme-stats)
 
 <br><br><br> -->
 
 ## 📈 Activity Graph 📈 
-[![nodeRand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nodeRand&theme=react)](https://github.com/nodeRand/github-readme-activity-graph)
+[![NodeRand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NodeRand&theme=react)](https://github.com/NodeRand/github-readme-activity-graph)
